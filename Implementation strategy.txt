@@ -1,0 +1,9 @@
+Implementation strategy
+
+In order to ensure that the user should be able to manage his todo items using 'my todos' application effectively, automated testing is planned to cover a broader set of the functionalities like the following :
+1.Adding todo items.
+2.Editing todo items.
+3.Checking the status of todo items.
+4.Multi selection of the todo items.
+5.Deleting the todo items.
+All the functionalites are covered in the automation script and are implemented using soft assertions.
